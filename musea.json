@@ -4,6 +4,7 @@
       "id": 1,
       "title": "Museum Boijmans Van Beuningen",
       "description": "Museum Boijmans Van Beuningen is an art museum located in Rotterdam. It houses a vast collection of art, including paintings, sculptures, and design objects.",
+      "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/de/5a/cc/museum-boijmans-van-beuningen.jpg?w=1200&h=-1&s=1",
       "latitude": 51.914482,
       "longitude": 4.472842
     },
@@ -11,6 +12,7 @@
       "id": 2,
       "title": "Kunsthal Rotterdam",
       "description": "Kunsthal Rotterdam is a contemporary art museum situated in the Museumpark area of Rotterdam. It hosts various temporary exhibitions throughout the year.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/Rotterdam_kunsthal_achterzijde.jpg",
       "latitude": 51.910453,
       "longitude": 4.473572
     },
@@ -18,13 +20,15 @@
       "id": 3,
       "title": "Maritime Museum Rotterdam",
       "description": "The Maritime Museum Rotterdam showcases the maritime history of the city. It features exhibits on shipping, ports, and shipbuilding, as well as interactive displays.",
+      "img": "https://images0.persgroep.net/rcs/unseOXgKI5mDEgW2xoSUkI3FVi0/diocontent/144357695/_fitwidth/694/?appId=21791a8992982cd8da851550a453bd7f&quality=0.8",
       "latitude": 51.917498,
       "longitude": 4.481736
     },
     {
       "id": 4,
-      "title": "Netherlands Photo Museum",
-      "description": "The Netherlands Photo Museum focuses on photography and visual culture. It displays a diverse collection of photographs, both historical and contemporary.",
+      "title": "Dutch Photo Museum",
+      "description": "The Dutch Photo Museum focuses on photography and visual culture. It displays a diverse collection of photographs, both historical and contemporary.",
+      "img": "https://artstalkmagazine.nl/wp-content/uploads/2017/07/nederlands-fotomuseum.jpg",
       "latitude": 51.905475,
       "longitude": 4.487441
     },
@@ -32,6 +36,7 @@
       "id": 5,
       "title": "Museum Rotterdam",
       "description": "Museum Rotterdam showcases the history and development of the city. It offers insights into Rotterdam's architecture, cultural heritage, and social history.",
+      "img": "https://www.tracesofwar.com/upload/7658191105220119.jpg",
       "latitude": 51.908968,
       "longitude": 4.458227
     },
@@ -39,6 +44,7 @@
       "id": 6,
       "title": "Het Nieuwe Instituut",
       "description": "Het Nieuwe Instituut explores the intersections of architecture, design, and digital culture. It presents exhibitions, events, and research projects.",
+      "img": "https://media.indebuurt.nl/rotterdam/2022/02/28155650/01_Aerial_%40mvrdv.jpg",
       "latitude": 51.914317,
       "longitude": 4.471189
     },
@@ -46,6 +52,7 @@
       "id": 7,
       "title": "Depot Boijmans Van Beuningen",
       "description": "Depot Boijmans Van Beuningen is a new art storage facility and exhibition space. It houses the collection of Museum Boijmans Van Beuningen and allows public access to view the stored artworks.",
+      "img":"https://www.boijmans.nl/dist/assets/img/temp/depot/depot_header_1.jpg",
       "latitude": 51.914041,
       "longitude": 4.471528
     },
@@ -53,6 +60,7 @@
       "id": 8,
       "title": "Chabot Museum",
       "description": "Chabot Museum is an art museum located in the former home and studio of Dutch painter and sculptor Henk Chabot. It displays his works and hosts temporary exhibitions.",
+      "img": "https://chabotmuseum.nl/wp-content/uploads/2015/09/Die-Hand-nr-86_DSC_6979_1_Bob-Goedewaagen.jpg",
       "latitude": 51.914699,
       "longitude": 4.472006
     },
@@ -60,6 +68,7 @@
       "id": 9,
       "title": "Wereldmuseum Rotterdam",
       "description": "Wereldmuseum Rotterdam focuses on the arts and cultures of different regions around the world. Its collection includes ethnographic objects, textiles, and artifacts.",
+      "img": "https://old-assets.toptrouwlocaties.nl/Uploads/Cache/Files/210326162544.1-Wereldmuseum-Rotterdam---Pand---Marnix-de-Stigter-Bruidsfotografie---High-Res.resized.1280x0.jpg",
       "latitude": 51.907930,
       "longitude": 4.480400
     },
@@ -67,6 +76,7 @@
       "id": 10,
       "title": "Kunstinstituut Melly",
       "description": "Kunstinstituut Melly, formerly known as Witte de With Center for Contemporary Art, is an institute for contemporary art. It presents exhibitions, publications, and events.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Witte_de_With_Center_for_Contemporary_Art.TIF/lossy-page1-1200px-Witte_de_With_Center_for_Contemporary_Art.TIF.jpg",
       "latitude": 51.915512,
       "longitude": 4.477007
     }
