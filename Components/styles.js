@@ -1,4 +1,4 @@
-import { StyleSheet } from 'react-native';
+import {StyleSheet} from 'react-native';
 
 const styles = StyleSheet.create({
     container: {
@@ -13,6 +13,22 @@ const styles = StyleSheet.create({
         marginVertical: 8,
         marginHorizontal: 16,
         borderRadius: 8,
+    },
+    header: {
+        flexDirection: 'row',
+        justifyContent: 'space-between',
+        alignItems: 'center',
+        marginBottom: 10,
+    },
+    titleContainer: {
+        flexDirection: 'row',
+        alignItems: 'center',
+    },
+    museumImage: {
+        width: 240,
+        height: 240,
+        marginRight: 10,
+        borderRadius: 10,
     },
     buttonText: {
         color: '#20232a',
@@ -49,12 +65,25 @@ const styles = StyleSheet.create({
         alignSelf: 'flex-start',
         marginVertical: 8,
     },
-    mapcontainer: {
-        flex: 1,
+    markerImage: {
+        width: 64,
+        height: 64,
+        borderRadius: 20,
+        borderWidth: 2,
+        borderColor: '#FFFFFF',
     },
-    map: {
-        width: '100%',
-        height: '100%',
+    markerInfoContainer: {
+        position: 'absolute',
+        bottom: 20,
+        left: 20,
+        right: 20,
+        backgroundColor: 'rgba(255, 255, 255, 0.8)',
+        borderRadius: 8,
+        padding: 8,
+    },
+    markerInfoText: {
+        fontSize: 16,
+        fontWeight: 'bold',
     },
 });
 
